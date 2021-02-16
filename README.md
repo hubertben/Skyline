@@ -1,2 +1,2 @@
 # Skyline
-A procedurally generated vector-wave skyline
+A Procedurally Generated Vector-Wave City Skyline.
